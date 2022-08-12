@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndyLuo1029
 - 👀 I’m interested in cycling and keyboards
 - 🌱 I’m currently learning how to do my intern better
-- 💞️ I’m looking to collaborate on BigDL2.0
+- 💞️ I’m looking to collaborate on my repos
 - 📫 How to reach me 1072087358@qq.com
 
 <!---
